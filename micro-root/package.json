@@ -1,0 +1,14 @@
+{
+  "name": "@angular-microfrontends/micro-root",
+  "version": "1.0.0",
+  "description": "The single-spa root config for coexisting-angular-microfrontends",
+  "scripts": {
+    "start": "serve -s -l 4200"
+  },
+  "author": "Christian Gommans",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^12.0.0"
+  },
+  "dependencies": {}
+}
